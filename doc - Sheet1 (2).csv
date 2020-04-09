@@ -1,0 +1,184 @@
+Roblox Universe,,,,,,,,,
+Bloxburg,Bloxy,Riverside,,,,,,,
+Meepcity,Meeps,Non - Meeps,,,,,,,
+Adopt Me,Kids,Parents,,,,,,,
+Mega Fun Obby,Noobs,Pros,,,,,,,
+Jailbreak,Cops,Robbers,,,,,,,
+Roblox,Premium,Non - Premium,,,,,,,
+# Team format:,Conference,Division,Name,Abbr,Prestige,Rival,,,
+# Bloxburg,,,,,,,,,
+TEAM,Bloxburg,Bloxy,Coeptus Court,CSCT,95,CYHL,,,
+TEAM,Bloxburg,Bloxy,Pizza Planet,PZPT,95,BBGM,,,
+TEAM,Bloxburg,Bloxy,Mike's Motors,MKMO,90,SZSN,,,
+TEAM,Bloxburg,Bloxy,Furniture Shop,FESP,90,BFFD,,,
+TEAM,Bloxburg,Bloxy,GazBlox,GZBX,85,GNCN,,,
+TEAM,Bloxburg,Bloxy,Beat Nightclub,BTNC,85,BYBG,,,
+TEAM,Bloxburg,Bloxy,Bloxy Housing,BYHG,80,RDHG,,,
+TEAM,Bloxburg,Riverside,Riverside Housing,RDHG,85,BYHG,,,
+TEAM,Bloxburg,Riverside,Bloxy Burgers,BYBG,80,BTNC,,,
+TEAM,Bloxburg,Riverside,Green Clean,GNCN,95,GZBX,,,
+TEAM,Bloxburg,Riverside,BFF Food,BFFD,85,FESP,,,
+TEAM,Bloxburg,Riverside,Stylez Salon,SZSN,90,MKMO,,,
+TEAM,Bloxburg,Riverside,Bloxburg Gym,BBGM,95,PZPT,,,
+TEAM,Bloxburg,Riverside,City Hall,CYHL,90,CSCT,,,
+# Meepcity,,,,,,,,,
+TEAM,Meepcity,Meeps,Pro Meeps,PRMP,95,BSAMC,,,
+TEAM,Meepcity,Meeps,Platinum Meeps,PMMP,95,GAMC,,,
+TEAM,Meepcity,Meeps,Diamond Meeps,DNMP,90,EMCP,,,
+TEAM,Meepcity,Meeps,Gold Meeps,GDMP,90,FSTM,,,
+TEAM,Meepcity,Meeps,Silver Meeps,SVMP,85,BTAMC,,,
+TEAM,Meepcity,Meeps,Average Meeps,AGMP,85,OAMC,,,
+TEAM,Meepcity,Meeps,Bronze Meeps,BZMP,80,NAMC,,,
+TEAM,Meepcity,Non - Meeps,Noobs at MeepCity,NAMC,70,BZMP,,,
+TEAM,Meepcity,Non - Meeps,OK at MeepCity,OAMC,75,AGMP,,,
+TEAM,Meepcity,Non - Meeps,Better at MeepCity,BTAMC,75,SVMP,,,
+TEAM,Meepcity,Non - Meeps,First Timers,FSTM,80,GDMP,,,
+TEAM,Meepcity,Non - Meeps,Early MeepCity Players,EMCP,80,DNMP,,,
+TEAM,Meepcity,Non - Meeps,Great at MeepCity,GAMC,85,PMMP,,,
+TEAM,Meepcity,Non - Meeps,Best at MeepCity,BSAMC,85,PRMP,,,
+# Adopt Me,,,,,,,,,
+TEAM,Adopt Me,Kids,Babies,BBIS,80,ALXXX,,,
+TEAM,Adopt Me,Kids,Toddlers,TDLS,85,AGLXX,,,
+TEAM,Adopt Me,Kids,Ages 5 and 6,AGV,85,AGLX,,,
+TEAM,Adopt Me,Kids,Age 7 and 8,AGVII,90,AGL,,,
+TEAM,Adopt Me,Kids,Age 9 and 10,AGIX,90,AGXL,,,
+TEAM,Adopt Me,Kids,Ages 11 and 12,AGXI,95,AGXXX,,,
+TEAM,Adopt Me,Kids,Teens,TENS,95,YOAD,,,
+TEAM,Adopt Me,Parents,Young Adults,YOAD,95,TENS,,,
+TEAM,Adopt Me,Parents,Age 30,AGXXX,95,AGXI,,,
+TEAM,Adopt Me,Parents,Age 40,AGXL,90,AGIX,,,
+TEAM,Adopt Me,Parents,Age 50,AGL,90,AGVII,,,
+TEAM,Adopt Me,Parents,Age 60,AGLX,85,AGV,,,
+TEAM,Adopt Me,Parents,Age 70,AGLXX,85,TDLS,,,
+TEAM,Adopt Me,Parents,Age 80,ALXXX,80,BBIS,,,
+# Mega Fun Obby,,,,,,,,,
+TEAM,Mega Fun Obby,Noobs,Copper,CPPR,60,PCPPR,,,
+TEAM,Mega Fun Obby,Noobs,Bronze,BRNZ,65,PBRNZ,,,
+TEAM,Mega Fun Obby,Noobs,Silver,SLVR,65,PSLVR,,,
+TEAM,Mega Fun Obby,Noobs,Pyrite,PYRT,70,PPYRT,,,
+TEAM,Mega Fun Obby,Noobs,Gold,GLD,70,PGLD,,,
+TEAM,Mega Fun Obby,Noobs,Diamond,DMND,75,PDMND,,,
+TEAM,Mega Fun Obby,Noobs,Platinum,PTNM,75,PPTNM,,,
+TEAM,Mega Fun Obby,Pros,Pro Copper,PCPPR,80,CPPR,,,
+TEAM,Mega Fun Obby,Pros,Pro Bronze,PBRNZ,85,BRNZ,,,
+TEAM,Mega Fun Obby,Pros,Pro Silver,PSLVR,85,SLVR,,,
+TEAM,Mega Fun Obby,Pros,Pro Pyrite,PPYRT,90,PYRT,,,
+TEAM,Mega Fun Obby,Pros,Pro Gold,PGLD,90,GLD,,,
+TEAM,Mega Fun Obby,Pros,Pro Diamond,PDMND,95,DMND,,,
+TEAM,Mega Fun Obby,Pros,Pro Platinum,PPTNM,95,PTNM,,,
+# Jailbreak,,,,,,,,,
+TEAM,Jailbreak,Cops,Noob Cops,NCOP,80,NROB,,,
+TEAM,Jailbreak,Cops,OK Cops,OCOP,85,OROB,,,
+TEAM,Jailbreak,Cops,Bronze Cops,BCOP,85,BROB,,,
+TEAM,Jailbreak,Cops,Average Cops,ACOP,90,AROB,,,
+TEAM,Jailbreak,Cops,Silver Cops,SCOP,90,SROB,,,
+TEAM,Jailbreak,Cops,Gold Cops,GCOP,95,GROB,,,
+TEAM,Jailbreak,Cops,Pro Cops,PCOP,95,PROB,,,
+TEAM,Jailbreak,Robbers,Noob Robbers,NROB,80,NCOP,,,
+TEAM,Jailbreak,Robbers,OK Robbers,OROB,85,OCOP,,,
+TEAM,Jailbreak,Robbers,Bronze Robbers,BROB,85,BCOP,,,
+TEAM,Jailbreak,Robbers,Average Robbers,AROB,90,ACOP,,,
+TEAM,Jailbreak,Robbers,Silver Robbers,SROB,90,SCOP,,,
+TEAM,Jailbreak,Robbers,Gold Robbers,GROB,95,GCOP,,,
+TEAM,Jailbreak,Robbers,Pro Robbers,PROB,95,PCOP,,,
+# Roblox,,,,,,,,,
+TEAM,Roblox,Premium,Premium New,PNEW,80,NEW,,,
+TEAM,Roblox,Premium,Premium Months,PMNS,85,MNS,,,
+TEAM,Roblox,Premium,Premium Years,PYRS,85,YRS,,,
+TEAM,Roblox,Premium,Premium Decades,PDCS,90,DCS,,,
+TEAM,Roblox,Premium,Premium Youtubers,PYTS,90,YTS,,,
+TEAM,Roblox,Premium,Premium Non - Youtubers,PNYTS,95,NYTS,,,
+TEAM,Roblox,Premium,Premium Pros,PPRO,95,PRO,,,
+TEAM,Roblox,Non - Premium,New,NEW,70,PNEW,,,
+TEAM,Roblox,Non - Premium,Months,MNS,75,PMNS,,,
+TEAM,Roblox,Non - Premium,Years,YRS,75,PYRS,,,
+TEAM,Roblox,Non - Premium,Decades,DCS,80,PDCS,,,
+TEAM,Roblox,Non - Premium,Youtubers,YTS,80,PYTS,,,
+TEAM,Roblox,Non - Premium,Non - Youtubers,NYTS,85,PNYTS,,,
+TEAM,Roblox,Non - Premium,Pros,PRO,85,PPRO,,,
+,,,,,,,,,
+# Coach format,Team,Name,Age,Offense,Defense,Recruiting,Training,Off Scheme,Def Scheme
+COACH,CSCT,Joe Billis,25,90,90,90,90,Pro Style,Balanced
+COACH,PZPT,Mark Westford,25,90,90,90,90,Pro Style,Balanced
+COACH,MKMO,Allen Scott,25,85,85,85,85,Pro Style,Balanced
+COACH,FESP,Baron Baricks,25,85,85,85,85,Pro Style,Balanced
+COACH,GZBX,Nicky Woody,25,80,80,80,80,Pro Style,Balanced
+COACH,BTNC,Joe Banslip,25,80,80,80,80,Pro Style,Balanced
+COACH,BYHG,Josh Balkin,25,75,75,75,75,Pro Style,Balanced
+COACH,RDHG,Lee Barstol,25,90,90,90,90,Pro Style,Balanced
+COACH,BYBG,Darren Mikasa,25,90,90,90,90,Pro Style,Balanced
+COACH,GNCN,Nick Borris,25,85,85,85,85,Pro Style,Balanced
+COACH,BFFD,Don Joshua,25,85,85,85,85,Pro Style,Balanced
+COACH,SZSN,Arn Jones,25,80,80,80,80,Pro Style,Balanced
+COACH,BBGM,Jack Barker,25,80,80,80,80,Pro Style,Balanced
+COACH,CYHL,Nick Mabey,25,75,75,75,75,Pro Style,Balanced
+COACH,PRMP,Usamah Brock,25,90,90,90,90,Pro Style,Balanced
+COACH,PMMP,Zander Holland,25,90,90,90,90,Pro Style,Balanced
+COACH,DNMP,Cruz Fisher,25,85,85,85,85,Pro Style,Balanced
+COACH,GDMP,Jett Spooner,25,85,85,85,85,Pro Style,Balanced
+COACH,SVMP,Saeed Ford,25,80,80,80,80,Pro Style,Balanced
+COACH,AGMP,Abdulrahman Heath,25,80,80,80,80,Pro Style,Balanced
+COACH,BZMP,Hakim Correa,25,75,75,75,75,Pro Style,Balanced
+COACH,NAMC,Haroon Larsen,25,90,90,90,90,Pro Style,Balanced
+COACH,OAMC,Luke Melendez,25,90,90,90,90,Pro Style,Balanced
+COACH,BTAMC,Robbie Rosales,25,85,85,85,85,Pro Style,Balanced
+COACH,FSTM,Winston Haley,25,85,85,85,85,Pro Style,Balanced
+COACH,EMCP,Andreas Hodge,25,80,80,80,80,Pro Style,Balanced
+COACH,GAMC,Shahid Marsden,25,80,80,80,80,Pro Style,Balanced
+COACH,BSAMC,Kingsley Grant,25,75,75,75,75,Pro Style,Balanced
+COACH,BBIS,Gus Donovan,25,90,90,90,90,Pro Style,Balanced
+COACH,TDLS,Montague Blevins,25,90,90,90,90,Pro Style,Balanced
+COACH,AGV,Waseem Delarosa,25,85,85,85,85,Pro Style,Balanced
+COACH,AGVII,Hunter Torres,25,85,85,85,85,Pro Style,Balanced
+COACH,AGIX,Mimi Begum,25,80,80,80,80,Pro Style,Balanced
+COACH,AGXI,Jeffrey Rees,25,80,80,80,80,Pro Style,Balanced
+COACH,TENS,Cathal Cowan,25,75,75,75,75,Pro Style,Balanced
+COACH,YOAD,Cavan Barker,25,90,90,90,90,Pro Style,Balanced
+COACH,AGXXX,Morris Arias,25,90,90,90,90,Pro Style,Balanced
+COACH,AGXL,Domas Rivers,25,85,85,85,85,Pro Style,Balanced
+COACH,AGL,Denzel Roche,25,85,85,85,85,Pro Style,Balanced
+COACH,AGLX,Rhyley Lyon,25,80,80,80,80,Pro Style,Balanced
+COACH,AGLXX,Kaiya Nielsen,25,80,80,80,80,Pro Style,Balanced
+COACH,ALXXX,Akaash Patrick,25,75,75,75,75,Pro Style,Balanced
+COACH,CPPR,Douglas Dyer,25,90,90,90,90,Pro Style,Balanced
+COACH,BRNZ,Omari Barclay,25,90,90,90,90,Pro Style,Balanced
+COACH,SLVR,Keanan Mejia,25,85,85,85,85,Pro Style,Balanced
+COACH,PYRT,Francesco Cleveland,25,85,85,85,85,Pro Style,Balanced
+COACH,GLD,Anwar Donovan,25,80,80,80,80,Pro Style,Balanced
+COACH,DMND,Patryk Dudley,25,80,80,80,80,Pro Style,Balanced
+COACH,PTNM,Antoine Dawson,25,75,75,75,75,Pro Style,Balanced
+COACH,PCPPR,Kiran Davila,25,90,90,90,90,Pro Style,Balanced
+COACH,PBRNZ,Ainsley Marriott,25,90,90,90,90,Pro Style,Balanced
+COACH,PSLVR,Javier Beach,25,85,85,85,85,Pro Style,Balanced
+COACH,PPYRT,Owais Allen,25,85,85,85,85,Pro Style,Balanced
+COACH,PGLD,Yosef Rowe,25,80,80,80,80,Pro Style,Balanced
+COACH,PDMND,Raife Moss,25,80,80,80,80,Pro Style,Balanced
+COACH,PPTNM,Camron Boyce,25,75,75,75,75,Pro Style,Balanced
+COACH,NCOP,Blake Singleton,25,90,90,90,90,Pro Style,Balanced
+COACH,OCOP,Mustafa Rivers,25,90,90,90,90,Pro Style,Balanced
+COACH,BCOP,Zahid Cannon,25,85,85,85,85,Pro Style,Balanced
+COACH,ACOP,Angelo Hayward,25,85,85,85,85,Pro Style,Balanced
+COACH,SCOP,Bernard Morse,25,80,80,80,80,Pro Style,Balanced
+COACH,GCOP,Enrico Blackburn,25,80,80,80,80,Pro Style,Balanced
+COACH,PCOP,Zi Odom,25,75,75,75,75,Pro Style,Balanced
+COACH,NROB,Hubert Hogg,25,90,90,90,90,Pro Style,Balanced
+COACH,OROB,Isaiah Dale,25,90,90,90,90,Pro Style,Balanced
+COACH,BROB,Myron Kenny,25,85,85,85,85,Pro Style,Balanced
+COACH,AROB,Darius Philip,25,85,85,85,85,Pro Style,Balanced
+COACH,SROB,Magnus Mack,25,80,80,80,80,Pro Style,Balanced
+COACH,GROB,Remi Andrade,25,80,80,80,80,Pro Style,Balanced
+COACH,PROB,Trent Ortiz,25,75,75,75,75,Pro Style,Balanced
+COACH,PNEW,Jasper Lang,25,90,90,90,90,Pro Style,Balanced
+COACH,PMNS,Woodrow Rossi,25,90,90,90,90,Pro Style,Balanced
+COACH,PYRS,Jozef Turner,25,85,85,85,85,Pro Style,Balanced
+COACH,PDCS,Joshua Phan,25,85,85,85,85,Pro Style,Balanced
+COACH,PYTS,Sullivan Zuniga,25,80,80,80,80,Pro Style,Balanced
+COACH,PNYTS,Amelie Robson,25,80,80,80,80,Pro Style,Balanced
+COACH,PPRO,Thomas Quintana,25,75,75,75,75,Pro Style,Balanced
+COACH,NEW,Amit Redman,25,90,90,90,90,Pro Style,Balanced
+COACH,MNS,Rayhaan Marriott,25,90,90,90,90,Pro Style,Balanced
+COACH,YRS,Nur Dunlap,25,85,85,85,85,Pro Style,Balanced
+COACH,DCS,Keith Blake,25,85,85,85,85,Pro Style,Balanced
+COACH,YTS,Hugo Hayward,25,80,80,80,80,Pro Style,Balanced
+COACH,NYTS,John-James Hooper,25,80,80,80,80,Pro Style,Balanced
+COACH,PRO,Faizan Kane,25,75,75,75,75,Pro Style,Balanced
