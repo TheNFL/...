@@ -1,0 +1,8 @@
+Custom Colleges
+NorthEastern Conference,Coastal,Inland,,,,,,,,,,,
+MidWestern Conference,North,South,,,,,,,,,,,
+Texan Conference,North,South,,,,,,,,,,,
+Southern Conference,East,West,,,,,,,,,,,
+Californian Conference,Pacific Coastal,Central,,,,,,,,,,,
+NorthWestern Conference,Coast,Landlocked,,,,,,,,,,,
+# Team format:,Conference,Division,Name,Abbr,Prestige,Rival,,,,,,,
