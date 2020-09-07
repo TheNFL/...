@@ -5,94 +5,94 @@ Mountain,Mountain North,Mountain South,,,,
 West,Northwest,Southwest,,,,
 Bordering Countries,Mexico,Canada,,,,
 Alaska/Hawaii,Alaska,Hawaii,,,,
-# Team Format,Conference,Division,Name,Abbr,Prestige,Rival
+# Team Format,Conference,Division,Name,Abbr,Prestige,Rival,
 # East,,,,,,
-TEAM,East,Northeast,New York City,NYC,90,RCM
-TEAM,East,Northeast,Boston,BOS,90,MGY
-TEAM,East,Northeast,Hartford,HAR,85,ATL
-TEAM,East,Northeast,Pittsburgh,PIT,85,CHA
-TEAM,East,Northeast,Baltimore,BAL,80,RAL
-TEAM,East,Northeast,Dover,DVR,80,MIA
-TEAM,East,Northeast,Trenton,TRN,75,ASH
-TEAM,East,Southeast,Ashburn,ASH,90,TRN
-TEAM,East,Southeast,Miami,MIA,90,DVR
-TEAM,East,Southeast,Raleigh,RAL,85,BAL
-TEAM,East,Southeast,Charleston,CHA,85,PIT
-TEAM,East,Southeast,Atlanta,ATL,80,HAR
-TEAM,East,Southeast,Montgomery,MGY,80,BOS
-TEAM,East,Southeast,Richmond,RCM,75,NYC
+TEAM,East,Northeast,New York City,NYC,90,RCM,
+TEAM,East,Northeast,Boston,BOS,90,MGY,
+TEAM,East,Northeast,Hartford,HAR,85,ATL,
+TEAM,East,Northeast,Pittsburgh,PIT,85,CHA,
+TEAM,East,Northeast,Baltimore,BAL,80,RAL,
+TEAM,East,Northeast,Dover,DVR,80,MIA,
+TEAM,East,Northeast,Trenton,TRN,75,ASH,
+TEAM,East,Southeast,Ashburn,ASH,90,TRN,
+TEAM,East,Southeast,Miami,MIA,90,DVR,
+TEAM,East,Southeast,Raleigh,RAL,85,BAL,
+TEAM,East,Southeast,Charleston,CHA,85,PIT,
+TEAM,East,Southeast,Atlanta,ATL,80,HAR,
+TEAM,East,Southeast,Montgomery,MGY,80,BOS,
+TEAM,East,Southeast,Richmond,RCM,75,NYC,
 # Central,,,,,,
-TEAM,Central,Central North,Cleveland,CLV,90,JFC
-TEAM,Central,Central North,Cincinatti,CIN,85,KSC
-TEAM,Central,Central North,Detroit,DET,80,OKC
-TEAM,Central,Central North,Springfield,SPR,80,NWS
-TEAM,Central,Central North,Indianapolis,IPS,75,LRK
-TEAM,Central,Central North,Iowa City,ICY,75,HSN
-TEAM,Central,Central North,Lincoln,LCN,70,JKN
-TEAM,Central,Central South,Jackson,JKN,90,LCN
-TEAM,Central,Central South,Houston,HSN,85,ICY
-TEAM,Central,Central South,Little Rock,LRK,80,IPS
-TEAM,Central,Central South,New Orleans,NWS,80,SPR
-TEAM,Central,Central South,Oklahoma City,OKC,75,DET
-TEAM,Central,Central South,Kansas City,KSC,75,CIN
-TEAM,Central,Central South,Jefferson City,JFC,70,CLV
+TEAM,Central,Central North,Cleveland,CLV,90,JFC,
+TEAM,Central,Central North,Cincinatti,CIN,85,KSC,
+TEAM,Central,Central North,Detroit,DET,80,OKC,
+TEAM,Central,Central North,Springfield,SPR,80,NWS,
+TEAM,Central,Central North,Indianapolis,IPS,75,LRK,
+TEAM,Central,Central North,Iowa City,ICY,75,HSN,
+TEAM,Central,Central North,Lincoln,LCN,70,JKN,
+TEAM,Central,Central South,Jackson,JKN,90,LCN,
+TEAM,Central,Central South,Houston,HSN,85,ICY,
+TEAM,Central,Central South,Little Rock,LRK,80,IPS,
+TEAM,Central,Central South,New Orleans,NWS,80,SPR,
+TEAM,Central,Central South,Oklahoma City,OKC,75,DET,
+TEAM,Central,Central South,Kansas City,KSC,75,CIN,
+TEAM,Central,Central South,Jefferson City,JFC,70,CLV,
 # Mountain,,,,,,
-TEAM,Mountain,Mountain North,Boise,BIE,85,AUR
-TEAM,Mountain,Mountain North,Billings,BLS,80,ASP
-TEAM,Mountain,Mountain North,Helena,HNA,75,STF
-TEAM,Mountain,Mountain North,Great Falls,GFL,75,CHD
-TEAM,Mountain,Mountain North,Idaho Falls,IFL,70,TUC
-TEAM,Mountain,Mountain North,Meridian,MDI,65,PHO
-TEAM,Mountain,Mountain North,Cheyenne,CHY,60,DEN
-TEAM,Mountain,Mountain South,Denver,DEN,85,CHY
-TEAM,Mountain,Mountain South,Phoenix,PHO,85,MDI
-TEAM,Mountain,Mountain South,Tucson,TUC,80,IFL
-TEAM,Mountain,Mountain South,Chandler,CHD,80,GFL
-TEAM,Mountain,Mountain South,Santa Fe,STF,75,HNA
-TEAM,Mountain,Mountain South,Aspen,ASP,75,BLS
-TEAM,Mountain,Mountain South,Aurora,AUR,70,BIE
+TEAM,Mountain,Mountain North,Boise,BIE,85,AUR,
+TEAM,Mountain,Mountain North,Billings,BLS,80,ASP,
+TEAM,Mountain,Mountain North,Helena,HNA,75,STF,
+TEAM,Mountain,Mountain North,Great Falls,GFL,75,CHD,
+TEAM,Mountain,Mountain North,Idaho Falls,IFL,70,TUC,
+TEAM,Mountain,Mountain North,Meridian,MDI,65,PHO,
+TEAM,Mountain,Mountain North,Cheyenne,CHY,60,DEN,
+TEAM,Mountain,Mountain South,Denver,DEN,85,CHY,
+TEAM,Mountain,Mountain South,Phoenix,PHO,85,MDI,
+TEAM,Mountain,Mountain South,Tucson,TUC,80,IFL,
+TEAM,Mountain,Mountain South,Chandler,CHD,80,GFL,
+TEAM,Mountain,Mountain South,Santa Fe,STF,75,HNA,
+TEAM,Mountain,Mountain South,Aspen,ASP,75,BLS,
+TEAM,Mountain,Mountain South,Aurora,AUR,70,BIE,
 # West,,,,,,
-TEAM,West,Northwest,Seattle,SEA,80,SMO
-TEAM,West,Northwest,Portland,POR,75,FRN
-TEAM,West,Northwest,Tacoma,TAC,70,SFC
-TEAM,West,Northwest,Redmond,REM,65,SDG
-TEAM,West,Northwest,Spokane,SPK,65,OAK
-TEAM,West,Northwest,Oregon City,OGC,60,LSA
-TEAM,West,Northwest,Salem,SLM,55,SLM
-TEAM,West,Southwest,Anaheim,ANA,85,SLM
-TEAM,West,Southwest,Los Angeles,LSA,80,OGC
-TEAM,West,Southwest,Oakland,OAK,75,SPK
-TEAM,West,Southwest,San Diego,SDG,70,REM
-TEAM,West,Southwest,San Francisco,SFC,65,TAC
-TEAM,West,Southwest,Fresno,FRN,65,POR
-TEAM,West,Southwest,Sacramento,SMO,60,SEA
+TEAM,West,Northwest,Seattle,SEA,80,SMO,
+TEAM,West,Northwest,Portland,POR,75,FRN,
+TEAM,West,Northwest,Tacoma,TAC,70,SFC,
+TEAM,West,Northwest,Redmond,REM,65,SDG,
+TEAM,West,Northwest,Spokane,SPK,65,OAK,
+TEAM,West,Northwest,Oregon City,OGC,60,LSA,
+TEAM,West,Northwest,Salem,SLM,60,SLM,
+TEAM,West,Southwest,Anaheim,ANA,85,SLM,
+TEAM,West,Southwest,Los Angeles,LSA,80,OGC,
+TEAM,West,Southwest,Oakland,OAK,75,SPK,
+TEAM,West,Southwest,San Diego,SDG,70,REM,
+TEAM,West,Southwest,San Francisco,SFC,65,TAC,
+TEAM,West,Southwest,Fresno,FRN,65,POR,
+TEAM,West,Southwest,Sacramento,SMO,60,SEA,
 # Bordering Countries,,,,,,
-TEAM,Bordering Countries,Mexico,Mexico City,MXC,70,VCV
-TEAM,Bordering Countries,Mexico,Tijuana,TJU,70,RGN
-TEAM,Bordering Countries,Mexico,Toluca,TLA,65,MTR
-TEAM,Bordering Countries,Mexico,Reynosa,RYS,65,OTO
-TEAM,Bordering Countries,Mexico,Tepic,TPC,60,TOR
-TEAM,Bordering Countries,Mexico,La Paz,LPZ,60,CGR
-TEAM,Bordering Countries,Mexico,Xalapa,XPA,55,OTW
-TEAM,Bordering Countries,Canada,Vancouver,VCV,75,MXC
-TEAM,Bordering Countries,Canada,Regina,RGN,75,TJU
-TEAM,Bordering Countries,Canada,Montreal,MTR,70,TLA
-TEAM,Bordering Countries,Canada,Ontario,OTO,70,RYS
-TEAM,Bordering Countries,Canada,Toronto,TOR,65,TPC
-TEAM,Bordering Countries,Canada,Calgary,CGR,65,LPZ
-TEAM,Bordering Countries,Canada,Ottawa,OTW,60,XPA
+TEAM,Bordering Countries,Mexico,Mexico City,MXC,70,VCV,
+TEAM,Bordering Countries,Mexico,Tijuana,TJU,70,RGN,
+TEAM,Bordering Countries,Mexico,Toluca,TLA,65,MTR,
+TEAM,Bordering Countries,Mexico,Reynosa,RYS,65,OTO,
+TEAM,Bordering Countries,Mexico,Tepic,TPC,60,TOR,
+TEAM,Bordering Countries,Mexico,La Paz,LPZ,60,CGR,
+TEAM,Bordering Countries,Mexico,Xalapa,XPA,55,OTW,
+TEAM,Bordering Countries,Canada,Vancouver,VCV,75,MXC,
+TEAM,Bordering Countries,Canada,Regina,RGN,75,TJU,
+TEAM,Bordering Countries,Canada,Montreal,MTR,70,TLA,
+TEAM,Bordering Countries,Canada,Ontario,OTO,70,RYS,
+TEAM,Bordering Countries,Canada,Toronto,TOR,65,TPC,
+TEAM,Bordering Countries,Canada,Calgary,CGR,65,LPZ,
+TEAM,Bordering Countries,Canada,Ottawa,OTW,60,XPA,
 # Alaska/Hawaii,,,,,,
-TEAM,Alaska/Hawaii,Alaska,Anchorage,ANC,60,HLU
-TEAM,Alaska/Hawaii,Alaska,Fairbanks,FBK,60,PCY
-TEAM,Alaska/Hawaii,Alaska,Juneau,JNE,55,MUI
-TEAM,Alaska/Hawaii,Alaska,Wasilla,WSL,55,VOL
-TEAM,Alaska/Hawaii,Alaska,Nome,NME,50,KOA
-TEAM,Alaska/Hawaii,Alaska,Kodiak,KOD,50,KPA
-TEAM,Alaska/Hawaii,Alaska,Cordova,COV,45,KHU
-TEAM,Alaska/Hawaii,Hawaii,Honolulu,HLU,55,ANC
-TEAM,Alaska/Hawaii,Hawaii,Pearl City,PCY,55,FBK
-TEAM,Alaska/Hawaii,Hawaii,Maui,MUI,50,JNE
-TEAM,Alaska/Hawaii,Hawaii,Volcano,VOL,50,WSL
-TEAM,Alaska/Hawaii,Hawaii,Koloa,KOA,45,NME
-TEAM,Alaska/Hawaii,Hawaii,Kapalua,KPA,45,KOD
-TEAM,Alaska/Hawaii,Hawaii,Kahuku,KHU,40,COV
+TEAM,Alaska/Hawaii,Alaska,Anchorage,ANC,60,HLU,
+TEAM,Alaska/Hawaii,Alaska,Fairbanks,FBK,60,PCY,
+TEAM,Alaska/Hawaii,Alaska,Juneau,JNE,55,MUI,
+TEAM,Alaska/Hawaii,Alaska,Wasilla,WSL,55,VOL,
+TEAM,Alaska/Hawaii,Alaska,Nome,NME,50,KOA,
+TEAM,Alaska/Hawaii,Alaska,Kodiak,KOD,50,KPA,
+TEAM,Alaska/Hawaii,Alaska,Cordova,COV,45,KHU,
+TEAM,Alaska/Hawaii,Hawaii,Honolulu,HLU,55,ANC,
+TEAM,Alaska/Hawaii,Hawaii,Pearl City,PCY,55,FBK,
+TEAM,Alaska/Hawaii,Hawaii,Maui,MUI,50,JNE,
+TEAM,Alaska/Hawaii,Hawaii,Volcano,VOL,50,WSL,
+TEAM,Alaska/Hawaii,Hawaii,Koloa,KOA,45,NME,
+TEAM,Alaska/Hawaii,Hawaii,Kapalua,KPA,45,KOD,
+TEAM,Alaska/Hawaii,Hawaii,Kahuku,KHU,40,COV,
