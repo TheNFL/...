@@ -182,7 +182,7 @@
           "abbreviation" : "MTRC",
           "prestige" : "78",
           "hexColor" : "#005596",
-          "rival" : "VTNA",
+          "rival" : "PSC",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -204,7 +204,7 @@
           "abbreviation" : "VTNA",
           "prestige" : "47",
           "hexColor" : "#FCA120",
-          "rival" : "MTRC",
+          "rival" : "MSGU",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -233,7 +233,7 @@
           "abbreviation" : "MSGU",
           "prestige" : "89",
           "hexColor" : "#744143",
-          "rival" : "PSC",
+          "rival" : "VTNA",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -255,7 +255,7 @@
           "abbreviation" : "PSC",
           "prestige" : "95",
           "hexColor" : "#DC143C",
-          "rival" : "MSGU",
+          "rival" : "MTRC",
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2020",
