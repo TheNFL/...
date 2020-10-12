@@ -13,7 +13,7 @@ Alaska, Lynx, ALASKA, Alaskan, 6B6C6E, 0E9496, 65, AK, AK;
 Alaska Juneau, Orcas, AKJUN, Alaskan, 074D0F, FFFFFF, 65, AK, AK;
 Alaska Tech, Wolves, AKTCH, Alaskan, 1B0599, FFFFFF, 65, AK, AK;
 Alaska Fairbanks, Nanook, AKFB, Alaskan, 1602F0, ECF002, 65, AK, AK;
-Alaska Southeast, White Whales, Alaskan, AKSE, 1602F0, FFFFFF, 65, AK, AK;
+Alaska Southeast, White Whales, AKSE, Alaskan, 1602F0, FFFFFF, 65, AK, AK;
 Northern Alaska, Huskies, NAU, Alaskan, 8F8D8D, FFFFFF, 84, AK, AK;
 Miami, Hurricanes, MIAMI, Atlantic, 005030, FF671F, 75, FL, FL;
 Boston College, Eagles, BC, Atlantic, 98002E, BC9B6A, 58, MA, MA.RI.ME;
