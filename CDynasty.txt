@@ -13,7 +13,7 @@ China Tech, Chinese, CIT, International, 6B6C6E, 0E9496, 65, LA, LA;
 
 Russia School of Technology, Russians, RST, International, 1B0599, FFFFFF, 84, TN, TN;
 
-Vietnam Academy, Vietnamese, VTNA, International, 1602F0, FFFFFF, 59, FL, Fl;
+Vietnam Academy, Vietnamese, VTNA, International, 1602F0, FFFFFF, 59, FL, FL;
 
 Ukraine School of Art, Ukranians, UKSA, International, 005030, FF671F, 50, KY, KY;
 
@@ -103,7 +103,7 @@ South Dakota, Rushmores, SD, Dakota, 73000A, 000000, 90, SD, SD;
 
 North Dakota University, Mountain Rams, NDU, Dakota, 866D4B, 000000, 62, ND, ND;
 
-South Dakota State, Hawks, SDSU, Dakota, 9D2235, FFFFFF, 80, sD, SD.WA;
+South Dakota State, Hawks, SDSU, Dakota, 9D2235, FFFFFF, 80, SD, SD.WA;
 
 South Dakota Tech, Tigers, SDTC, Dakota, 461D7C, FDD023, 63, SD, SD.FL;
 
