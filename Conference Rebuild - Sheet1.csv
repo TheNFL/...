@@ -1,0 +1,98 @@
+Conference Rebuild,,,,,,
+Eastern USA,North,South,,,,
+Big Northern,East,West,,,,
+MWAC,North,Lone Star,,,,
+PAC 14,North,South,,,,
+WAC,North,South,,,,
+EAC,Atlantic,Florida,,,,
+# Team Format:,Conference,Division,Name,Abbr,Prestige,Rival
+# Eastern USA,,,,,,
+TEAM,Eastern USA,North,Arkansas,ARK,70,LSU
+TEAM,Eastern USA,North,Tennessee,TENN,80,BAMA
+TEAM,Eastern USA,North,Mizzouri,MIZZ,75,AUB
+TEAM,Eastern USA,North,Kentucky,UK,70,MSST
+TEAM,Eastern USA,North,Vanderbilt,VANDY,60,SMFD
+TEAM,Eastern USA,North,Louisville,LOU,80,MISS
+TEAM,Eastern USA,North,Memphis,MEM,75,NAL
+TEAM,Eastern USA,South,Alabama,BAMA,95,TENN
+TEAM,Eastern USA,South,LSU,LSU,85,ARK
+TEAM,Eastern USA,South,Auburn,AUB,85,MIZZ
+TEAM,Eastern USA,South,Mississippi St,MSST,75,UK
+TEAM,Eastern USA,South,Ole Miss,MISS,75,LOU
+TEAM,Eastern USA,South,Samford,SMFD,50,VANDY
+TEAM,Eastern USA,South,North Alabama,NAL,50,MEM
+# Big Northern,,,,,,
+TEAM,Big Northern,East,Ohio State,OSU,95,WIS
+TEAM,Big Northern,East,Michigan,MICH,90,MINN
+TEAM,Big Northern,East,Michigan State,MSU,85,NEB
+TEAM,Big Northern,East,Indiana,IND,65,ILL
+TEAM,Big Northern,East,Youngstown St,YOUNG,50,IOWA
+TEAM,Big Northern,East,Valparaiso,VALPO,50,NU
+TEAM,Big Northern,East,Indiana State,INDST,55,NDSU
+TEAM,Big Northern,West,Illinois,ILL,60,IND
+TEAM,Big Northern,West,Wisconsin,WIS,90,OSU
+TEAM,Big Northern,West,Nebraska,NEB,85,MSU
+TEAM,Big Northern,West,Iowa,IOWA,80,YOUNG
+TEAM,Big Northern,West,Northwestern,NU,75,VALPO
+TEAM,Big Northern,West,Minnesota,MINN,65,MICH
+TEAM,Big Northern,West,North Dakota St,NDSU,60,NDSU
+# MWAC,,,,,,
+TEAM,MWAC,North,Kansas,KU,50,ACU
+TEAM,MWAC,North,Kansas State,KSU,80,TTU
+TEAM,MWAC,North,Oklahoma,OU,95,TEX
+TEAM,MWAC,North,Oklahoma State,OKST,85,HBU
+TEAM,MWAC,North,Northern Iowa,UNI,55,SFA
+TEAM,MWAC,North,Iowa State,ISU,70,BAY
+TEAM,MWAC,North,South Dakota St,SDSU,50,TCU
+TEAM,MWAC,Lone Star,Texas,TEX,90,OU
+TEAM,MWAC,Lone Star,TCU,TCU,80,SDSU
+TEAM,MWAC,Lone Star,Texas Tech,TTU,75,KSU
+TEAM,MWAC,Lone Star,Baylor,BAY,70,ISU
+TEAM,MWAC,Lone Star,Abilene Christian,ACU,60,KU
+TEAM,MWAC,Lone Star,Stephen F Austin,SFA,55,UNI
+TEAM,MWAC,Lone Star,Houston Baptist,HBU,58,OKST
+# PAC 14,,,,,,
+TEAM,PAC 14,North,Oregon,ORE,90,UTAH
+TEAM,PAC 14,North,Washington,WASH,85,ARIZ
+TEAM,PAC 14,North,Washington St,WSU,75,ASU
+TEAM,PAC 14,North,Oregon State,ORST,60,COLO
+TEAM,PAC 14,North,Stanford,STAN,85,USC
+TEAM,PAC 14,North,California,CAL,70,UCLA
+TEAM,PAC 14,North,Eastern Washington,EWU,60,CLPLY
+TEAM,PAC 14,South,USC,USC,90,STAN
+TEAM,PAC 14,South,Colorado,COLO,65,ORST
+TEAM,PAC 14,South,UCLA,UCLA,85,CAL
+TEAM,PAC 14,South,Arizona State,ASU,70,WSU
+TEAM,PAC 14,South,Utah,UTAH,75,ORE
+TEAM,PAC 14,South,Arizona,ARIZ,75,WASH
+TEAM,PAC 14,South,Cal Poly,CLPLY,50,EWU
+# WAC,,,,,,
+TEAM,WAC,North,Boise State,BSU,80,HAW
+TEAM,WAC,North,BYU,BYU,75,NEV
+TEAM,WAC,North,Utah State,UTST,75,WBST
+TEAM,WAC,North,Fresno State,FRESNO,80,NMSU
+TEAM,WAC,North,Idaho,IDA,60,SJSU
+TEAM,WAC,North,Montana State,MTST,70,UTSA
+TEAM,WAC,North,Montana,GRIZ,60,TXST
+TEAM,WAC,South,Hawaii,HAW,75,BSU
+TEAM,WAC,South,Nevada,NEV,70,BYU
+TEAM,WAC,South,New Mexico St,NMSU,65,FRESNO
+TEAM,WAC,South,San Jose St,SJSU,60,IDA
+TEAM,WAC,South,UTSA,UTSA,65,MTST
+TEAM,WAC,South,Texas State,TXST,70,GRIZ
+TEAM,WAC,South,Weber State,WBST,60,UTST
+# EAC,,,,,,
+TEAM,EAC,Atlantic,Clemson,CLEM,95,FSU
+TEAM,EAC,Atlantic,South Carolina,SC,75,UF
+TEAM,EAC,Atlantic,Georgia,UGA,90,USF
+TEAM,EAC,Atlantic,Georgia Tech,GT,75,UCF
+TEAM,EAC,Atlantic,NC State,NCST,80,UM
+TEAM,EAC,Atlantic,North Carolina,UNC,80,BCU
+TEAM,EAC,Atlantic,VA Tech,VT,85,FAMU
+TEAM,EAC,Florida,Miami,UM,90,NCST
+TEAM,EAC,Florida,Florida State,FSU,90,CLEM
+TEAM,EAC,Florida,Florida,UF,90,SC
+TEAM,EAC,Florida,UCF,UCF,80,GT
+TEAM,EAC,Florida,Bethune Cookman,BCU,50,UNC
+TEAM,EAC,Florida,Florida A&M,FAMU,50,VT
+TEAM,EAC,Florida,South Florida,USF,75,UGA
