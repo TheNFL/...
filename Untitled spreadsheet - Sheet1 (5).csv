@@ -1,0 +1,98 @@
+Group of 5,,,,,,
+Big 10,East,West,,,,
+American,East,West,,,,
+C-USA,East,West,,,,
+MAC,American,National,,,,
+Mountain West,Mountain,West,,,,
+Sunbelt,East,West,,,,
+# Team Format:,Conference,Division,Name,Abbr,Prestige,Rival
+# Big 10,,,,,,
+TEAM,Big 10,East,Ohio State,OSU,95,NU
+TEAM,Big 10,East,Indiana,IU,85,WSU
+TEAM,Big 10,East,Penn State,PSU,70,WISC
+TEAM,Big 10,East,Michigan,MICH,55,MINN
+TEAM,Big 10,East,Michigan State,MSU,45,ILL
+TEAM,Big 10,East,Purdue,PUR,50,NEB
+TEAM,Big 10,East,East Gotham,GTHAM,85,IOWA
+TEAM,Big 10,West,Northwestern,NU,90,OSU
+TEAM,Big 10,West,Iowa,IOWA,80,GTHAM
+TEAM,Big 10,West,Wisconsin,WISC,75,PSU
+TEAM,Big 10,West,Minnesota,MINN,65,MICH
+TEAM,Big 10,West,Nebraska,NEB,60,PUR
+TEAM,Big 10,West,Illinois,ILL,40,MSU
+TEAM,Big 10,West,Wisconsin State,WSU,90,IU
+# American,,,,,,
+TEAM,American,East,Central Florida,UCF,70,TUL
+TEAM,American,East,Navy,NAVY,55,MEM
+TEAM,American,East,East Carolina,ECU,45,SMU
+TEAM,American,East,Temple,TEM,40,CINCY
+TEAM,American,East,South Florida,USF,35,HOU
+TEAM,American,East,Liberty,LBRTY,75,BYU
+TEAM,American,East,Connecticut,CONN,65,NMST
+TEAM,American,West,Cincinnati,CINCY,85,TEM
+TEAM,American,West,Memphis,MEM,75,NAVY
+TEAM,American,West,SMU,SMU,65,ECU
+TEAM,American,West,Houston,HOU,60,USF
+TEAM,American,West,Tulane,TUL,50,UCF
+TEAM,American,West,BYU,BYU,80,LBRTY
+TEAM,American,West,New Mexico State,NMST,60,CONN
+# C-USA,,,,,,
+TEAM,C-USA,East,Marshall,MARSH,85,USM
+TEAM,C-USA,East,Florida Atlantic,FAU,70,LTU
+TEAM,C-USA,East,Western Kentucky,WKU,55,UTEP
+TEAM,C-USA,East,UNC Charlotte,UNCC,50,UTSA
+TEAM,C-USA,East,Old Dominion,ODU,20,UAB
+TEAM,C-USA,East,Middle Tennessee State,MTSU,40,UNT
+TEAM,C-USA,East,Florida International,FIU,25,RICE
+TEAM,C-USA,West,Alabama-Birmingham,UAB,80,ODU
+TEAM,C-USA,West,UTSA,UTSA,75,UNCC
+TEAM,C-USA,West,Louisiana Tech,LTU,65,FAU
+TEAM,C-USA,West,North Texas,UNT,60,MTSU
+TEAM,C-USA,West,Rice,RICE,45,FIU
+TEAM,C-USA,West,Southern Mississippi,USM,35,MARSH
+TEAM,C-USA,West,UTEP,UTEP,30,WKU
+# MAC,,,,,,
+TEAM,MAC,American,Metropolis,METRO,90,CMU
+TEAM,MAC,American,Tulsa State,TST,90,SLS
+TEAM,MAC,American,Tulsa,TU,75,MOTU
+TEAM,MAC,American,Bowling Green,BGSU,74,BALL
+TEAM,MAC,American,Rocky Mountain State,RMSU,88,MSTAM
+TEAM,MAC,American,Ohio,OHIO,81,NIU
+TEAM,MAC,American,Buffalo,UB,80,WMU
+TEAM,MAC,National,Missouri Tech,MOTU,86,TU
+TEAM,MAC,National,Ball State,BALL,81,BGSU
+TEAM,MAC,National,Northern Illinois,NIU,81,OHIO
+TEAM,MAC,National,Western Michigan,WMU,77,UB
+TEAM,MAC,National,MO State Tech A&M,MSTAM,77,RMSU
+TEAM,MAC,National,St Louis State,SLS,20,TST
+TEAM,MAC,National,Central Michigan,CMU,50,METRO
+# Mountain West,,,,,,
+TEAM,Mountain West,Mountain,Boise State,BOISE,80,WAZZU
+TEAM,Mountain West,Mountain,Air Force,AFA,55,UNLV
+TEAM,Mountain West,Mountain,Wyoming,WYO,50,NEV
+TEAM,Mountain West,Mountain,New Mexico,UNM,45,FRES
+TEAM,Mountain West,Mountain,Colorado State,CSU,40,SJSU
+TEAM,Mountain West,Mountain,Utah State,UTST,35,SDSU
+TEAM,Mountain West,Mountain,Colorado,COL,85,HAW
+TEAM,Mountain West,West,San Jose State,SJSU,85,CSU
+TEAM,Mountain West,West,Nevada,NEV,75,WYO
+TEAM,Mountain West,West,San Diego State,SDSU,70,UTST
+TEAM,Mountain West,West,Hawaii,HAW,65,COL
+TEAM,Mountain West,West,Fresno State,FRES,60,UNM
+TEAM,Mountain West,West,UNLV,UNLV,30,AFA
+TEAM,Mountain West,West,Washington State,WAZZU,50,BOISE
+# Sunbelt,,,,,,
+TEAM,Sunbelt,East,Coastal Carolina,UCC,85,
+TEAM,Sunbelt,East,Appalachian State,APPST,75,
+TEAM,Sunbelt,East,Georgia State,GSU,70,
+TEAM,Sunbelt,East,Georgia Southern,GSOU,65,
+TEAM,Sunbelt,East,Troy,TROY,60,
+TEAM,Sunbelt,East,Army,ARMY,70,
+TEAM,Sunbelt,East,Massachusetts,MASS,55,
+TEAM,Sunbelt,West,Louisiana,ULL,80,
+TEAM,Sunbelt,West,South Alabama,USA,55,
+TEAM,Sunbelt,West,Texas State,TXST,50,
+TEAM,Sunbelt,West,Arkansas State,ARKST,45,
+TEAM,Sunbelt,West,UL Monroe,ULM,40,
+TEAM,Sunbelt,West,Eastern Washington,EWU,60,
+TEAM,Sunbelt,West,North Dakota State,NDSU,75,
