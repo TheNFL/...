@@ -7,7 +7,7 @@ Mountain West,Mountain,West,,,,
 Sunbelt,East,West,,,,
 # Team Format:,Conference,Division,Name,Abbr,Prestige,Rival
 # Big 10,,,,,,
-TEAM,Big 10,East,Ohio State,OSU,95,NU,
+TEAM,Big 10,East,Ohio State,OSU,95,NU,,
 TEAM,Big 10,East,Indiana,IU,85,WSU,
 TEAM,Big 10,East,Penn State,PSU,70,WISC,
 TEAM,Big 10,East,Michigan,MICH,55,MINN,
