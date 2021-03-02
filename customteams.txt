@@ -1,0 +1,16 @@
+SCHOOL NAME, MASCOT, ABBREVIATION, CONFERENCE, PRIMARY HEX COLOR, SECONDARY HEX COLOR, PRESTIGE, HOME STATE, PIPELINE STATES (separated by .);
+Jefferson City, Black Eagles, JCSU, Gateway, 000000, 73000A, 15, MO, MO;
+Los Angeles State, Bears, LASU, Pacific, 2D68C4, F2A900, 80, CA, CA.OR.WA.UT.CO.AZ;
+New York State, Coyotes, NYSU, Northeast, 861F41, FFFFFF, 90, NY, NY.MD.PA.MA.CT.NJ.VT.RI.DE.NH;
+Minnesota Tech, Ramblers, MT, Midwest, 003057, FFFFFF, 85, MN, MN.IA.MI.OH.IN.IL.WI;
+Georgia Fairburn, Pandas, UGF, Southeast, D41B2C, 000000, 95, GA, GA;
+Wright University, Soldiers, WU, Atlantic, A67F31, 000000, 93, NC, NC.SC;
+Death Valley State, Dingoes, DVSU, Pacific, 000000, A67F31, 79, CA, CA.NV.CO.UT.OR.WA;
+Los Angeles A&M, Flames, LAMU, Pacific, 73000A, FFFFFF, 95, CA, CA.AL.AK.AZ.AR.CO.CT.DE.FL.GA.HI.ID.IL.IN.IA.KS.KY.LA.ME.MD.MA.MI.MN.MS.MO.MT.NE.NV.NH.NJ.NM.NY.NC.ND.OH.OK.OR.PA.RI.SC.SD.TN.TX.UT.VT.VA.WA.WV.WI.WY;
+CORPSE University, Imposters, CORPSE, Pacific, 000000, 73000A, 95, CA, CA.AK.HI.OR.WA.ID.UT.NV.AZ;
+Kalispell, Warhawks, KC, Mountain, 003057, FFFFFF, 70, MT, MT.ID.MN.WA.CA;
+Iowa Tech, Hawtechs, IOTX, Gateway, 000000, A67F31, 65, IA, IA;
+Nebraska State, Prairie Dogs, NSU, Midwest, A67F31, 154734, 70, NE, NE;
+Iowa A&M, Hawkandms, IOAM, Gateway, 000000, A67F31, 65, IA, IA;
+Sykkuno University, Sheriffs, SYKU, Mountain, 154734, 04FF00, 90, NV, NV;
+Los Angeles Tech, Cowboys, LATU, Pacific, 154734, 512888, 80, CA, CA.OR.WA.CO.UT;
