@@ -1,0 +1,98 @@
+Roblox Universe,,,,,,
+Bloxburg,Bloxy,Riverside,,,,
+Meepcity,Meeps,Non - Meeps,,,,
+Adopt Me,Kids,Parents,,,,
+Mega Fun Obby,Noobs,Pros,,,,
+Jailbreak,Cops,Robbers,,,,
+Roblox,Premium,Non - Premium,,,,
+# Team format:,Conference,Division,Name,Abbr,Prestige,Rival
+# Bloxburg,,,,,,
+TEAM,Bloxburg,Bloxy,Coeptus Court,CSCT,95,CYHL
+TEAM,Bloxburg,Bloxy,Pizza Planet,PZPT,95,BBGM
+TEAM,Bloxburg,Bloxy,Mike's Motors,MKMO,90,SZSN
+TEAM,Bloxburg,Bloxy,Furniture Shop,FESP,90,BFFD
+TEAM,Bloxburg,Bloxy,GazBlox,GZBX,85,GNCN
+TEAM,Bloxburg,Bloxy,Beat Nightclub,BTNC,85,BYBG
+TEAM,Bloxburg,Bloxy,Bloxy Housing,BYHG,80,RDHG
+TEAM,Bloxburg,Riverside,Riverside Housing,RDHG,85,BYHG
+TEAM,Bloxburg,Riverside,Bloxy Burgers,BYBG,80,BTNC
+TEAM,Bloxburg,Riverside,Green Clean,GNCN,95,GZBX
+TEAM,Bloxburg,Riverside,BFF Food,BFFD,85,FESP
+TEAM,Bloxburg,Riverside,Stylez Salon,SZSN,90,MKMO
+TEAM,Bloxburg,Riverside,Bloxburg Gym,BBGM,95,PZPT
+TEAM,Bloxburg,Riverside,City Hall,CYHL,90,CSCT
+# Meepcity,,,,,,
+TEAM,Meepcity,Meeps,Pro Meeps,PRMP,95,BSAMC
+TEAM,Meepcity,Meeps,Platinum Meeps,PMMP,95,GAMC
+TEAM,Meepcity,Meeps,Diamond Meeps,DNMP,90,EMCP
+TEAM,Meepcity,Meeps,Gold Meeps,GDMP,90,FSTM
+TEAM,Meepcity,Meeps,Silver Meeps,SVMP,85,BTAMC
+TEAM,Meepcity,Meeps,Average Meeps,AGMP,85,OAMC
+TEAM,Meepcity,Meeps,Bronze Meeps,BZMP,80,NAMC
+TEAM,Meepcity,Non - Meeps,Noobs at MeepCity,NAMC,70,BZMP
+TEAM,Meepcity,Non - Meeps,OK at MeepCity,OAMC,75,AGMP
+TEAM,Meepcity,Non - Meeps,Better at MeepCity,BTAMC,75,SVMP
+TEAM,Meepcity,Non - Meeps,First Timers,FSTM,80,GDMP
+TEAM,Meepcity,Non - Meeps,Early MeepCity Players,EMCP,80,DNMP
+TEAM,Meepcity,Non - Meeps,Great at MeepCity,GAMC,85,PMMP
+TEAM,Meepcity,Non - Meeps,Best at MeepCity,BSAMC,85,PRMP
+# Adopt Me,,,,,,
+TEAM,Adopt Me,Kids,Babies,BBIS,80,ALXXX
+TEAM,Adopt Me,Kids,Toddlers,TDLS,85,AGLXX
+TEAM,Adopt Me,Kids,Ages 5 and 6,AGV,85,AGLX
+TEAM,Adopt Me,Kids,Age 7 and 8,AGVII,90,AGL
+TEAM,Adopt Me,Kids,Age 9 and 10,AGIX,90,AGXL
+TEAM,Adopt Me,Kids,Ages 11 and 12,AGXI,95,AGXXX
+TEAM,Adopt Me,Kids,Teens,TENS,95,YOAD
+TEAM,Adopt Me,Parents,Young Adults,YOAD,95,TENS
+TEAM,Adopt Me,Parents,Age 30,AGXXX,95,AGXI
+TEAM,Adopt Me,Parents,Age 40,AGXL,90,AGIX
+TEAM,Adopt Me,Parents,Age 50,AGL,90,AGVII
+TEAM,Adopt Me,Parents,Age 60,AGLX,85,AGV
+TEAM,Adopt Me,Parents,Age 70,AGLXX,85,TDLS
+TEAM,Adopt Me,Parents,Age 80,ALXXX,80,BBIS
+# Mega Fun Obby,,,,,,
+TEAM,Mega Fun Obby,Noobs,Copper,CPPR,55,PCPPR
+TEAM,Mega Fun Obby,Noobs,Bronze,BRNZ,65,PBRNZ
+TEAM,Mega Fun Obby,Noobs,Silver,SLVR,65,PSLVR
+TEAM,Mega Fun Obby,Noobs,Pyrite,PYRT,70,PPYRT
+TEAM,Mega Fun Obby,Noobs,Gold,GLD,70,PGLD
+TEAM,Mega Fun Obby,Noobs,Diamond,DMND,75,PDMND
+TEAM,Mega Fun Obby,Noobs,Platinum,PTNM,75,PPTNM
+TEAM,Mega Fun Obby,Pros,Pro Copper,PCPPR,80,CPPR
+TEAM,Mega Fun Obby,Pros,Pro Bronze,PBRNZ,85,BRNZ
+TEAM,Mega Fun Obby,Pros,Pro Silver,PSLVR,85,SLVR
+TEAM,Mega Fun Obby,Pros,Pro Pyrite,PPYRT,90,PYRT
+TEAM,Mega Fun Obby,Pros,Pro Gold,PGLD,90,GLD
+TEAM,Mega Fun Obby,Pros,Pro Diamond,PDMND,95,DMND
+TEAM,Mega Fun Obby,Pros,Pro Platinum,PPTNM,95,PTNM
+# Jailbreak,,,,,,
+TEAM,Jailbreak,Cops,Noob Cops,NCOP,80,NROB
+TEAM,Jailbreak,Cops,OK Cops,OCOP,85,OROB
+TEAM,Jailbreak,Cops,Bronze Cops,BCOP,85,BROB
+TEAM,Jailbreak,Cops,Average Cops,ACOP,90,AROB
+TEAM,Jailbreak,Cops,Silver Cops,SCOP,90,SROB
+TEAM,Jailbreak,Cops,Gold Cops,GCOP,95,GROB
+TEAM,Jailbreak,Cops,Pro Cops,PCOP,95,PROB
+TEAM,Jailbreak,Robbers,Noob Robbers,NROB,80,NCOP
+TEAM,Jailbreak,Robbers,OK Robbers,OROB,85,OCOP
+TEAM,Jailbreak,Robbers,Bronze Robbers,BROB,85,BCOP
+TEAM,Jailbreak,Robbers,Average Robbers,AROB,90,ACOP
+TEAM,Jailbreak,Robbers,Silver Robbers,SROB,90,SCOP
+TEAM,Jailbreak,Robbers,Gold Robbers,GROB,95,GCOP
+TEAM,Jailbreak,Robbers,Pro Robbers,PROB,95,PCOP
+# Roblox,,,,,,
+TEAM,Roblox,Premium,Rich,PRCH,80,ELNBS
+TEAM,Roblox,Premium,Super Rich,PSRCH,85,SPNBS
+TEAM,Roblox,Premium,Elite Rich,PERCH,85,NBS
+TEAM,Roblox,Premium,Dominus Owners,PDMO,90,OKPLRS
+TEAM,Roblox,Premium,Linkmon99,PLINK,90,RBLXNS
+TEAM,Roblox,Premium,ROBLOX,PRBLX,95,AVRG
+TEAM,Roblox,Premium,builderman,PBMN,95,BSTS
+TEAM,Roblox,Normal,Elite Noobs,ELNBS,60,PRCH
+TEAM,Roblox,Normal,Super Noobs,SPNBS,65,PSRCH
+TEAM,Roblox,Normal,Noobs,NBS,65,PERCH
+TEAM,Roblox,Normal,OK Players,OKPLRS,70,PDMO
+TEAM,Roblox,Normal,Robloxians,RBLXNS,70,PLINK
+TEAM,Roblox,Normal,Average,AVRG,75,PRBLX
+TEAM,Roblox,Normal,Beasts,BSTS,75,PBMN
