@@ -1,98 +1,98 @@
-The Ultimate,,,,,,
-PACIF,North,South,,,,
-SOUTH,East,West,,,,
-LAKES,East,West,,,,
-NORTH,Senate,Congress,,,,
-COWBOY,Sheriff,Outlaw,,,,
-MOUNT,Climbers,Hikers,,,,
+IRL CFB,,,,,,
+AAC,American,National,,,,
+ACC,Atlantic,Coastal,,,,
+B1G,North,Midwest,,,,
+XII,North,South,,,,
+P12,North,South,,,,
+SEC,East,West,,,,
 # Team Format:,Conference,Division,Name,Abbr,Prestige,Rival
-# PACIF,,,,,,
-TEAM,PACIF,North,Long Beach State,LBSU,95,CSUN
-TEAM,PACIF,North,Gonzaga,ZAGA,87,PEP
-TEAM,PACIF,North,San Diego,SD,86,UPAC
-TEAM,PACIF,North,UC Irvine,UCI,77,UCSD
-TEAM,PACIF,North,UC Riverside,UCR,69,CSUF
-TEAM,PACIF,North,Seattle,SEAU,59,CSUB
-TEAM,PACIF,North,American Samoa,SAM,26,CPLY
-TEAM,PACIF,South,Cal State Northridge,CSUN,82,LBSU
-TEAM,PACIF,South,Pepperdine,PEP,79,ZAGA
-TEAM,PACIF,South,Pacific,UPAC,82,SD
-TEAM,PACIF,South,UC San Diego,UCSD,70,UCI
-TEAM,PACIF,South,Cal State Fullerton,CSUF,49,UCR
-TEAM,PACIF,South,Cal State Bakersfield,CSUB,58,SEAU
-TEAM,PACIF,South,Cal Poly,CPLY,75,SAM
-# SOUTH,,,,,,
-TEAM,SOUTH,East,Florida Gulf Coast,FGCU,65,SELA
-TEAM,SOUTH,East,VCU,VCU,88,ETSU
-TEAM,SOUTH,East,Davidson,DVDSN,65,WCU
-TEAM,SOUTH,East,Georgetown,GTWN,83,UTC
-TEAM,SOUTH,East,UNC Asheville,UNCA,74,UNCG
-TEAM,SOUTH,East,Longwood,LGWD,50,VMI
-TEAM,SOUTH,East,Florida A&M,FAMU,55,CARK
-TEAM,SOUTH,West,VMI,VMI,88,LGWD
-TEAM,SOUTH,West,East Tenn State,ETSU,83,VCU
-TEAM,SOUTH,West,Western Carolina,WCU,88,DVDSN
-TEAM,SOUTH,West,Chattanooga,UTC,77,GTWN
-TEAM,SOUTH,West,UNC Greensboro,UNCG,79,UNCA
-TEAM,SOUTH,West,Central Arkansas,CARK,73,FAMU
-TEAM,SOUTH,West,Southeast Louisiana,SELA,60,FGCU
-# LAKES,,,,,,
-TEAM,LAKES,East,Valparaiso,VALPO,72,UIC
-TEAM,LAKES,East,Evansville,UE,51,WIU
-TEAM,LAKES,East,Indiana State,INDST,82,EIU
-TEAM,LAKES,East,IUPUI,IUPUI,61,UNI
-TEAM,LAKES,East,Purdue-Fort Wayne,IPFW,60,SIU
-TEAM,LAKES,East,Oakland,OAK,72,DRAKE
-TEAM,LAKES,East,Youngstown St,YOUNG,88,LYCHI
-TEAM,LAKES,West,Loyola-Chicago,LYCHI,59,YOUNG
-TEAM,LAKES,West,Drake,DRAKE,77,OAK
-TEAM,LAKES,West,Southern Illinois,SIU,87,IPFW
-TEAM,LAKES,West,Northern Iowa,UNI,93,IUPUI
-TEAM,LAKES,West,Eastern Illinois,EIU,74,INDST
-TEAM,LAKES,West,Western Illinois,WIU,69,UE
-TEAM,LAKES,West,Illinois-Chicago,UIC,72,VALPO
-# NORTH,,,,,,
-TEAM,NORTH,Senate,Hartford,HFRD,78,HFSRA
-TEAM,NORTH,Senate,Binghamton,BHTN,86,NESRN
-TEAM,NORTH,Senate,Saint Joseph's,SJU,89,UDEL
-TEAM,NORTH,Senate,Villanova,NOVA,54,SIENA
-TEAM,NORTH,Senate,Seton Hall,SNHL,50,IONA
-TEAM,NORTH,Senate,Providence,PROV,87,SFNY
-TEAM,NORTH,Senate,Connecticut,UCONN,84,SFPA
-TEAM,NORTH,Congress,Hofstra,HFSRA,78,HFRD
-TEAM,NORTH,Congress,Northeastern,NESRN,70,BHTN
-TEAM,NORTH,Congress,Delaware,UDEL,76,SJU
-TEAM,NORTH,Congress,Siena,SIENA,55,NOVA
-TEAM,NORTH,Congress,Iona,IONA,95,SNHL
-TEAM,NORTH,Congress,St Francis NY,SFNY,76,PROV
-TEAM,NORTH,Congress,St Francis PA,SFPA,55,UCONN
-# COWBOY,,,,,,
-TEAM,COWBOY,Sheriff,UT Arlington,UTA,56,WCHST
-TEAM,COWBOY,Sheriff,TX Southern,TXSOU,76,CRTN
-TEAM,COWBOY,Sheriff,Houston Baptist,HBU,62,MOST
-TEAM,COWBOY,Sheriff,Abilene Christian,ACU,56,SHOU
-TEAM,COWBOY,Sheriff,Stephen F Austin,SFA,54,LAMAR
-TEAM,COWBOY,Sheriff,Tarleton State,TRNST,64,INWRD
-TEAM,COWBOY,Sheriff,UT Rio Grande Valley,UTRGV,83,TAMUC
-TEAM,COWBOY,Outlaw,Wichita State,WCHST,91,UTA
-TEAM,COWBOY,Outlaw,Creighton,CRTN,83,TXSOU
-TEAM,COWBOY,Outlaw,Missouri State,MOST,78,HBU
-TEAM,COWBOY,Outlaw,Sam Houston State,SHOU,72,ACU
-TEAM,COWBOY,Outlaw,Lamar,LAMAR,89,SFA
-TEAM,COWBOY,Outlaw,Incarnate Word,INWRD,88,TRNST
-TEAM,COWBOY,Outlaw,TAMU-Corpus Christi,TAMUC,90,UTRGV
-# MOUNT,,,,,,
-TEAM,MOUNT,Climbers,Utah Valley,UTVY,50,UCD
-TEAM,MOUNT,Climbers,NM State,NMST,93,SFU
-TEAM,MOUNT,Climbers,Grand Canyon,GCU,87,SCLRA
-TEAM,MOUNT,Climbers,California Baptist,CALBU,76,STMRY
-TEAM,MOUNT,Climbers,Dixie State,DIXST,86,PORT
-TEAM,MOUNT,Climbers,UC Santa Barbara,UCSB,63,BYU
-TEAM,MOUNT,Climbers,Hawaii,HAW,57,LMU
-TEAM,MOUNT,Hikers,UC Davis,UCD,83,UTVY
-TEAM,MOUNT,Hikers,San Francisco,SFU,60,NMST
-TEAM,MOUNT,Hikers,Santa Clara,SCLRA,61,GCU
-TEAM,MOUNT,Hikers,Saint Mary's,STMRY,87,CALBU
-TEAM,MOUNT,Hikers,Portland,PORT,67,DIXST
-TEAM,MOUNT,Hikers,BYU,BYU,85,UCSB
-TEAM,MOUNT,Hikers,Loyola Marymount,LMU,66,HAW
+# AAC,,,,,,
+TEAM,AAC,American,Army West Point,ARMY,34,NAVY
+TEAM,AAC,American,Central Florida,UCF,76,USF
+TEAM,AAC,American,Cincinnati,CINCY,84,TEM
+TEAM,AAC,American,Massachusetts,MASS,14,CONN
+TEAM,AAC,American,East Carolina,ECU,26,MEM
+TEAM,AAC,American,Houston,HOU,40,SMU
+TEAM,AAC,American,Tulsa,TU,61,TUL
+TEAM,AAC,National,Tulane,TUL,42,TU
+TEAM,AAC,National,Memphis,MEM,37,ECU
+TEAM,AAC,National,Southern Methodist,SMU,39,HOU
+TEAM,AAC,National,South Florida,USF,20,UCF
+TEAM,AAC,National,Navy,NAVY,21,ARMY
+TEAM,AAC,National,Connecticut,CONN,13,MASS
+TEAM,AAC,National,Temple,TEM,18,CINCY
+# ACC,,,,,,
+TEAM,ACC,Atlantic,Clemson,CLEM,93,SC
+TEAM,ACC,Atlantic,Florida State,FSU,28,MIA
+TEAM,ACC,Atlantic,NC State,NCSU,43,UNC
+TEAM,ACC,Atlantic,Virginia,UVA,45,VT
+TEAM,ACC,Atlantic,Duke,DUKE,24,WAKE
+TEAM,ACC,Atlantic,Georgia Southern,GSOU,29,GT
+TEAM,ACC,Atlantic,Syracuse,CUSE,22,BC
+TEAM,ACC,Coastal,South Carolina,SC,33,CLEM
+TEAM,ACC,Coastal,Miami,MIA,73,FSU
+TEAM,ACC,Coastal,North Carolina,UNC,72,NCSU
+TEAM,ACC,Coastal,Virginia Tech,VT,66,UVA
+TEAM,ACC,Coastal,Wake Forest,WAKE,59,DUKE
+TEAM,ACC,Coastal,Georgia Tech,GT,27,GSOU
+TEAM,ACC,Coastal,Boston College,BC,48,CUSE
+# B1G,,,,,,
+TEAM,B1G,North,Michigan,MICH,54,MSU
+TEAM,B1G,North,Penn State,PSU,74,OSU
+TEAM,B1G,North,Wisconsin,WISC,88,MINN
+TEAM,B1G,North,Purdue,PUR,52,IU
+TEAM,B1G,North,Northwestern,NU,78,ILL
+TEAM,B1G,North,Iowa,IOWA,85,ISU
+TEAM,B1G,North,Western Michigan,WMU,31,NEB
+TEAM,B1G,Midwest,Michigan State,MSU,30,MICH
+TEAM,B1G,Midwest,Ohio State,OSU,94,PSU
+TEAM,B1G,Midwest,Minnesota,MINN,60,WISC
+TEAM,B1G,Midwest,Indiana,IU,82,PUR
+TEAM,B1G,Midwest,Illinois,ILL,32,NU
+TEAM,B1G,Midwest,Nebraska,NEB,58,WMU
+TEAM,B1G,Midwest,Iowa State,ISU,87,IOWA
+# XII,,,,,,
+TEAM,XII,North,Kansas,KU,17,UNT
+TEAM,XII,North,Kansas State,KSU,47,TCU
+TEAM,XII,North,Oklahoma,OU,92,TEX
+TEAM,XII,North,Oklahoma State,OKST,83,BAY
+TEAM,XII,North,Colorado,CU,44,TTU
+TEAM,XII,North,UTSA,UTSA,23,UTEP
+TEAM,XII,North,Missouri,MIZZ,53,TAMU
+TEAM,XII,South,UTEP,UTEP,15,UTSA
+TEAM,XII,South,Texas Christian,TCU,77,KSU
+TEAM,XII,South,Texas Tech,TTU,36,CU
+TEAM,XII,South,Baylor,BAY,55,OKST
+TEAM,XII,South,Texas,TEX,90,OU
+TEAM,XII,South,Texas A&M,TAMU,89,MIZZ
+TEAM,XII,South,North Texas,UNT,16,KU
+# P12,,,,,,
+TEAM,P12,North,Oregon,ORE,81,UCLA
+TEAM,P12,North,Oregon State,ORSU,41,USC
+TEAM,P12,North,Stanford,STAN,64,ARIZ
+TEAM,P12,North,Washington State,WSU,38,ASU
+TEAM,P12,North,Washington,WASH,65,CAL
+TEAM,P12,North,San Jose State,SJSU,35,SDSU
+TEAM,P12,North,Boise State,BOISE,56,UTAH
+TEAM,P12,South,Southern Cal,USC,80,ORSU
+TEAM,P12,South,Arizona State,ASU,75,WSU
+TEAM,P12,South,UCLA,UCLA,69,ORE
+TEAM,P12,South,Arizona,ARIZ,25,STAN
+TEAM,P12,South,Utah,UTAH,71,BOISE
+TEAM,P12,South,California,CAL,51,WASH
+TEAM,P12,South,San Diego State,SDSU,43,SJSU
+# SEC,,,,,,
+TEAM,SEC,East,Kentucky,UK,57,ARK
+TEAM,SEC,East,Florida,UF,86,LSU
+TEAM,SEC,East,Georgia,UGA,91,MISS
+TEAM,SEC,East,Tennessee,TENN,49,BAMA
+TEAM,SEC,East,Vanderbilt,VANDY,19,MSST
+TEAM,SEC,East,Coastal Carolina,CCU,68,ULL
+TEAM,SEC,East,West Virginia,WVU,67,AUB
+TEAM,SEC,West,Auburn,AUB,79,WVU
+TEAM,SEC,West,Ole Miss,MISS,63,UGA
+TEAM,SEC,West,Mississippi State,MSST,50,VANDY
+TEAM,SEC,West,LSU,LSU,70,UF
+TEAM,SEC,West,Arkansas,ARK,46,UK
+TEAM,SEC,West,Alabama,BAMA,95,TENN
+TEAM,SEC,West,Louisiana,ULL,62,CCU
