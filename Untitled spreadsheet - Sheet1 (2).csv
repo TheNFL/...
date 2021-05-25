@@ -1,0 +1,98 @@
+IRL CFB,,,,,,
+Australian A-League,League A,League B,,,,
+ACC,Atlantic,Coastal,,,,
+B1G,North,Midwest,,,,
+XII,North,South,,,,
+P12,North,South,,,,
+SEC,East,West,,,,
+# Team Format:,Conference,Division,Name,Abbr,Prestige,Rival
+# Australian A-League,,,,,,
+TEAM,Australian A-League,League A,Melbourne City FC,MBCFC,7,MELBO
+TEAM,Australian A-League,League A,Sydney FC,SYDFC,6,WSSYD
+TEAM,Australian A-League,League A,Adelaide United,AUNTD,5,WUNTD
+TEAM,Australian A-League,League A,Brisbane,BRSBN,4,WELFC
+TEAM,Australian A-League,League A,Central Coast,CTRLC,3,NEWC
+TEAM,Australian A-League,League A,Macarthur FC,MACFC,2,PERTH
+TEAM,Australian A-League,League A,Cheltenham Town,CTNHM,0,BOLTN
+TEAM,Australian A-League,League B,Perth,PERTH,7,MACFC
+TEAM,Australian A-League,League B,Wellington FC,WELFC,6,BRSBN
+TEAM,Australian A-League,League B,Western Sydney,WSSYD,5,SYDFC
+TEAM,Australian A-League,League B,Western United,WUNTD,4,AUNTD
+TEAM,Australian A-League,League B,Melbourne,MELBO,3,MBCFC
+TEAM,Australian A-League,League B,Newcastle,NEWC,2,CTRLC
+TEAM,Australian A-League,League B,Bolton,BOLTN,0,CTNHM
+# ACC,,,,,,
+TEAM,ACC,Atlantic,Clemson,CLEM,93,SC
+TEAM,ACC,Atlantic,Florida State,FSU,28,MIA
+TEAM,ACC,Atlantic,NC State,NCSU,43,UNC
+TEAM,ACC,Atlantic,Virginia,UVA,45,VT
+TEAM,ACC,Atlantic,Duke,DUKE,24,GT
+TEAM,ACC,Atlantic,Massachusetts,MASS,14,WAKE
+TEAM,ACC,Atlantic,Syracuse,CUSE,22,BC
+TEAM,ACC,Coastal,South Carolina,SC,33,CLEM
+TEAM,ACC,Coastal,Miami,MIA,73,FSU
+TEAM,ACC,Coastal,North Carolina,UNC,72,NCSU
+TEAM,ACC,Coastal,Virginia Tech,VT,66,UVA
+TEAM,ACC,Coastal,Wake Forest,WAKE,59,MASS
+TEAM,ACC,Coastal,Georgia Tech,GT,27,DUKE
+TEAM,ACC,Coastal,Boston College,BC,48,CUSE
+# B1G,,,,,,
+TEAM,B1G,North,Michigan,MICH,54,MSU
+TEAM,B1G,North,Penn State,PSU,74,OSU
+TEAM,B1G,North,Wisconsin,WISC,88,MINN
+TEAM,B1G,North,Purdue,PUR,52,IU
+TEAM,B1G,North,Northwestern,NU,78,ILL
+TEAM,B1G,North,Iowa,IOWA,85,ISU
+TEAM,B1G,North,Western Michigan,WMU,31,NEB
+TEAM,B1G,Midwest,Michigan State,MSU,30,MICH
+TEAM,B1G,Midwest,Ohio State,OSU,94,PSU
+TEAM,B1G,Midwest,Minnesota,MINN,60,WISC
+TEAM,B1G,Midwest,Indiana,IU,82,PUR
+TEAM,B1G,Midwest,Illinois,ILL,32,NU
+TEAM,B1G,Midwest,Nebraska,NEB,58,WMU
+TEAM,B1G,Midwest,Iowa State,ISU,87,IOWA
+# XII,,,,,,
+TEAM,XII,North,Kansas,KU,17,UNT
+TEAM,XII,North,Kansas State,KSU,47,TCU
+TEAM,XII,North,Oklahoma,OU,92,TEX
+TEAM,XII,North,Oklahoma State,OKST,83,BAY
+TEAM,XII,North,Colorado,CU,44,TTU
+TEAM,XII,North,UTSA,UTSA,23,UTEP
+TEAM,XII,North,Missouri,MIZZ,53,TAMU
+TEAM,XII,South,UTEP,UTEP,15,UTSA
+TEAM,XII,South,Texas Christian,TCU,77,KSU
+TEAM,XII,South,Texas Tech,TTU,36,CU
+TEAM,XII,South,Baylor,BAY,55,OKST
+TEAM,XII,South,Texas,TEX,90,OU
+TEAM,XII,South,Texas A&M,TAMU,89,MIZZ
+TEAM,XII,South,North Texas,UNT,16,KU
+# P12,,,,,,
+TEAM,P12,North,Oregon,ORE,81,UCLA
+TEAM,P12,North,Oregon State,ORSU,41,USC
+TEAM,P12,North,Stanford,STAN,64,ARIZ
+TEAM,P12,North,Washington State,WSU,38,ASU
+TEAM,P12,North,Washington,WASH,65,CAL
+TEAM,P12,North,San Jose State,SJSU,35,SDSU
+TEAM,P12,North,Boise State,BOISE,56,UTAH
+TEAM,P12,South,Southern Cal,USC,80,ORSU
+TEAM,P12,South,Arizona State,ASU,75,WSU
+TEAM,P12,South,UCLA,UCLA,69,ORE
+TEAM,P12,South,Arizona,ARIZ,25,STAN
+TEAM,P12,South,Utah,UTAH,71,BOISE
+TEAM,P12,South,California,CAL,51,WASH
+TEAM,P12,South,San Diego State,SDSU,43,SJSU
+# SEC,,,,,,
+TEAM,SEC,East,Kentucky,UK,57,ARK
+TEAM,SEC,East,Florida,UF,86,LSU
+TEAM,SEC,East,Georgia,UGA,91,MISS
+TEAM,SEC,East,Tennessee,TENN,49,BAMA
+TEAM,SEC,East,Vanderbilt,VANDY,19,MSST
+TEAM,SEC,East,Coastal Carolina,CCU,68,ULL
+TEAM,SEC,East,West Virginia,WVU,67,AUB
+TEAM,SEC,West,Auburn,AUB,79,WVU
+TEAM,SEC,West,Ole Miss,MISS,63,UGA
+TEAM,SEC,West,Mississippi State,MSST,50,VANDY
+TEAM,SEC,West,LSU,LSU,70,UF
+TEAM,SEC,West,Arkansas,ARK,46,UK
+TEAM,SEC,West,Alabama,BAMA,95,TENN
+TEAM,SEC,West,Louisiana,ULL,62,CCU
