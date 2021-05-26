@@ -14,6 +14,7 @@ TEAM,Australian A-League,League A,Brisbane,BRSBN,4,WELFC
 TEAM,Australian A-League,League A,Central Coast,CTRLC,3,NEWC
 TEAM,Australian A-League,League A,Macarthur FC,MACFC,2,PERTH
 TEAM,Australian A-League,League A,Cheltenham Town,CTNHM,0,BOLTN
+TEAM,Australian A-League,League A,Sheffield Wednesday,SFWED,0,SFUTD
 TEAM,Australian A-League,League B,Perth,PERTH,7,MACFC
 TEAM,Australian A-League,League B,Wellington FC,WELFC,6,BRSBN
 TEAM,Australian A-League,League B,Western Sydney,WSSYD,5,SYDFC
@@ -21,6 +22,7 @@ TEAM,Australian A-League,League B,Western United,WUNTD,4,AUNTD
 TEAM,Australian A-League,League B,Melbourne,MELBO,3,MBCFC
 TEAM,Australian A-League,League B,Newcastle,NEWC,2,CTRLC
 TEAM,Australian A-League,League B,Bolton,BOLTN,0,CTNHM
+TEAM,Australian A-League,League B,Sheffield United,SFUTD,0,SFWED
 # ACC,,,,,,
 TEAM,ACC,Atlantic,Clemson,CLEM,93,SC
 TEAM,ACC,Atlantic,Florida State,FSU,28,MIA
