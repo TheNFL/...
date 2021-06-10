@@ -1,0 +1,98 @@
+NCAA D3 Universe,,,,,,
+American Southwest,American,National,,,,
+Mid Atlantic,Commonwealth,Freedom,,,,
+Heartland,East,West,,,,
+Northwest,North,South,,,,
+Old Dominion Athletic,Virginian,Colonial,,,,
+Skyline,Big Apple,Northeast,,,,
+# Team Format:,Conference,Division,Name,Abbr,Prestige,Rival
+# American Southwest,,,,,,
+TEAM,American Southwest,American,Belhaven,BELH,10,LC
+TEAM,American Southwest,American,Concordia Texas,CNCTX,10,UMHB
+TEAM,American Southwest,American,East Texas Baptist,ETXBU,10,MCMUR
+TEAM,American Southwest,American,Hardin Simmons,HSU,10,OZARK
+TEAM,American Southwest,American,Howard Payne,HPYNU,10,UTDAL
+TEAM,American Southwest,American,LeTourneau,LTNU,10,SRSU
+TEAM,American Southwest,American,Ardmore,ARDM,10,UBA
+TEAM,American Southwest,National,Louisiana College,LC,10,BELH
+TEAM,American Southwest,National,Mary Hardin Baylor,UMHB,10,CNCTX
+TEAM,American Southwest,National,McMurry,MCMUR,10,ETXBU
+TEAM,American Southwest,National,Sul Ross State,SRSU,10,LTNU
+TEAM,American Southwest,National,Texas at Dallas,UTDAL,10,HPYNU
+TEAM,American Southwest,National,Broken Arrow,UBA,10,ARDM
+TEAM,American Southwest,National,Ozarks,OZARK,10,HSU
+# Mid Atlantic,,,,,,
+TEAM,Mid Atlantic,Commonwealth,Alvernia,AVNIA,10,DVU
+TEAM,Mid Atlantic,Commonwealth,Eastern,ESTRN,10,DESAL
+TEAM,Mid Atlantic,Commonwealth,Hood,HOODC,10,FDUF
+TEAM,Mid Atlantic,Commonwealth,Lebanon Valley,LVC,10,KNGSC
+TEAM,Mid Atlantic,Commonwealth,Stevenson,SVNSN,10,MSCDA
+TEAM,Mid Atlantic,Commonwealth,York College of PA,YCPA,10,WLKES
+TEAM,Mid Atlantic,Commonwealth,Albright,ALBRC,10,ARCA
+TEAM,Mid Atlantic,Freedom,Delaware Valley,DVU,10,AVNIA
+TEAM,Mid Atlantic,Freedom,Arcadia,ARCA,10,ALBRC
+TEAM,Mid Atlantic,Freedom,DeSales,DESAL,10,ESTRN
+TEAM,Mid Atlantic,Freedom,FDU Florham,FDUF,10,HOODC
+TEAM,Mid Atlantic,Freedom,Misericordia,MSCDA,10,SVNSN
+TEAM,Mid Atlantic,Freedom,Wilkes,WLKES,10,YCPA
+TEAM,Mid Atlantic,Freedom,Kings,KNGSC,10,LVC
+# Heartland,,,,,,
+TEAM,Heartland,East,Wittenberg,WBRG,10,AC
+TEAM,Heartland,East,Capital,CU,10,HC
+TEAM,Heartland,East,Bluffton,BLUFF,10,DC
+TEAM,Heartland,East,Mount St Joseph,MSJU,10,FC
+TEAM,Heartland,East,Rose Hulman,RHU,10,MU
+TEAM,Heartland,East,Transylvania,TRNSY,10,EC
+TEAM,Heartland,East,Ohio Western,OWU,10,WSU
+TEAM,Heartland,West,Defiance,DC,10,BLUFF
+TEAM,Heartland,West,Anderson,AC,10,WBRG
+TEAM,Heartland,West,Earlham,EC,10,TRNSY
+TEAM,Heartland,West,Franklin,FC,10,MSJU
+TEAM,Heartland,West,Hanover,HC,10,CU
+TEAM,Heartland,West,Manchester,MU,10,RHU
+TEAM,Heartland,West,Wisconsin State,WSU,10,OWU
+# Northwest,,,,,,
+TEAM,Northwest,North,Pacific Lutheran,PLU,10,PACOR
+TEAM,Northwest,North,Puget Sound,PSU,10,GFXU
+TEAM,Northwest,North,Whitman,WHTMN,10,LCC
+TEAM,Northwest,North,Whitworth,WTWTH,10,LNFLD
+TEAM,Northwest,North,Kalispell,KC,10,TFSU
+TEAM,Northwest,North,Tacoma,TAC,10,WLMTE
+TEAM,Northwest,North,Anchorage,ANC,10,HBORO
+TEAM,Northwest,South,George Fox,GFXU,10,PSU
+TEAM,Northwest,South,Lewis and Clark,LCC,10,WHTMN
+TEAM,Northwest,South,Pacific of Oregon,PACOR,10,PLU
+TEAM,Northwest,South,Linfield,LNFLD,10,WTWTH
+TEAM,Northwest,South,Williamette,WLMTE,10,TAC
+TEAM,Northwest,South,Twin Falls State,TFSU,10,KC
+TEAM,Northwest,South,Hillsboro,HBORO,10,ANC
+# Old Dominion Athletic,,,,,,
+TEAM,Old Dominion Athletic,Virginian,Bridgewater,BWTRC,10,RDPHC
+TEAM,Old Dominion Athletic,Virginian,Eastern Mennonite,EMNTE,10,RMC
+TEAM,Old Dominion Athletic,Virginian,Emory and Henry,EMHNC,10,ROANK
+TEAM,Old Dominion Athletic,Virginian,Ferrum,FRRUM,10,SNDOH
+TEAM,Old Dominion Athletic,Virginian,Hampden Sydney ,HSC,10,SWBRC
+TEAM,Old Dominion Athletic,Virginian,Hollins,HLLNS,10,VAWES
+TEAM,Old Dominion Athletic,Virginian,Lynchburg,LBRGC,10,WSHLE
+TEAM,Old Dominion Athletic,Colonial,Randolph,RDPHC,10,BWTRC
+TEAM,Old Dominion Athletic,Colonial,Randolph Macon,RMC,10,EMNTE
+TEAM,Old Dominion Athletic,Colonial,Roanoke,ROANK,10,EMHNC
+TEAM,Old Dominion Athletic,Colonial,Shenandoah,SNDOH,10,FRRUM
+TEAM,Old Dominion Athletic,Colonial,Sweet Briar,SWBRC,10,HSC
+TEAM,Old Dominion Athletic,Colonial,Virginia Wesleyan,VAWES,10,HLLNS
+TEAM,Old Dominion Athletic,Colonial,Washington and Lee,WSHLE,10,LBRGC
+# Skyline,,,,,,
+TEAM,Skyline,Big Apple,Farmingdale State,FSC,10,SJCB
+TEAM,Skyline,Big Apple,Manhattanville,MHVLC,10,SJCLI
+TEAM,Skyline,Big Apple,Mount Saint Mary,MSMC,10,SARLC
+TEAM,Skyline,Big Apple,Mount Saint Vincent,CMSV,10,USMM
+TEAM,Skyline,Big Apple,SUNY Maritime,SUNYM,10,YSHVA
+TEAM,Skyline,Big Apple,SUNY Old Westbury,SNYOW,10,WJC
+TEAM,Skyline,Big Apple,SUNY Purchase,PC,10,BRSU
+TEAM,Skyline,Northeast,St Josephs Brooklyn,SJCB,10,FSC
+TEAM,Skyline,Northeast,St Josephs Long Island,SJCLI,10,MHVLC
+TEAM,Skyline,Northeast,Sarah Lawrence,SARLC,10,MSMC
+TEAM,Skyline,Northeast,US Merchant Marine,USMM,10,CMSV
+TEAM,Skyline,Northeast,Yeshiva,YSHVA,10,SUNYM
+TEAM,Skyline,Northeast,Washington and Jefferson,WJC,10,SNYOW
+TEAM,Skyline,Northeast,Black Rock State,BRSU,10,PC
