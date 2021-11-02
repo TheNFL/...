@@ -1,0 +1,98 @@
+IRL CFB,,,,,,
+AAC,East,West,,,,
+CAA,East,West,,,,
+IVY,North,South,,,,
+MAC,East,West,,,,
+PFL,East,West,,,,
+SBC,East,West,,,,
+# Team format:,Conference,Division,Name,Abbr,Prestige,Rival
+# AAC,,,,,,
+TEAM,AAC,East,East Carolina,ECU,86,UNT
+TEAM,AAC,East,Navy,NAVY,82,MEM
+TEAM,AAC,East,South Florida,USF,80,RICE
+TEAM,AAC,East,Temple,TEM,78,TLS
+TEAM,AAC,East,Florida Atlantic,FAU,84,TUL
+TEAM,AAC,East,Charlotte,CLT,76,SMU
+TEAM,AAC,East,Alabama-Birmingham,UAB,80,UTSA
+TEAM,AAC,West,Southern Methodist,SMU,88,CLT
+TEAM,AAC,West,Tulsa,TLS,84,TEM
+TEAM,AAC,West,Memphis,MEM,76,NAVY
+TEAM,AAC,West,Tulane,TUL,74,FAU
+TEAM,AAC,West,North Texas,UNT,66,ECU
+TEAM,AAC,West,Texas-San Antonio,UTSA,88,UAB
+TEAM,AAC,West,Rice,RICE,74,USF
+# CAA,,,,,,
+TEAM,CAA,East,Maine,MAINE,50,ABNY
+TEAM,CAA,East,Rhode Island,URI,48,TWSN
+TEAM,CAA,East,New Hampshire,UNH,46,NOVA
+TEAM,CAA,East,Stony Brook,SBU,44,RICH
+TEAM,CAA,East,Delaware,UD,42,ELON
+TEAM,CAA,East,Bryant,BRY,60,CWM
+TEAM,CAA,East,Holy Cross,HCU,60,SFPA
+TEAM,CAA,West,William & Mary,CWM,58,BRY
+TEAM,CAA,West,Villanova,NOVA,56,UNH
+TEAM,CAA,West,Elon,ELON,54,UD
+TEAM,CAA,West,Albany,ABNY,38,MAINE
+TEAM,CAA,West,St Francis (PA),SFPA,56,HCU
+TEAM,CAA,West,Richmond,RICH,40,SBU
+TEAM,CAA,West,Towson,TWSN,52,URI
+# IVY,,,,,,
+TEAM,IVY,North,Dartmouth,DART,58,CRNL
+TEAM,IVY,North,Yale,YALE,54,COL
+TEAM,IVY,North,Harvard,HARV,52,UPTN
+TEAM,IVY,North,Brown,BRWN,48,PENN
+TEAM,IVY,North,Merrimack,MC,48,DUQ
+TEAM,IVY,North,Central Connecticut State,CCSU,50,LHGH
+TEAM,IVY,North,Colgate,CGTE,56,WC
+TEAM,IVY,South,Princeton,UPTN,60,HARV
+TEAM,IVY,South,Pennsylvania,PENN,50,BRWN
+TEAM,IVY,South,Cornell,CRNL,46,DART
+TEAM,IVY,South,Columbia,COL,56,YALE
+TEAM,IVY,South,Wagner,WC,46,CGTE
+TEAM,IVY,South,Duquesne,DUQ,52,MC
+TEAM,IVY,South,Lehigh,LHGH,50,CCSU
+# MAC,,,,,,
+TEAM,MAC,East,Kent State,KSU,86,EMU
+TEAM,MAC,East,Miami of Ohio,MiOH,84,BALL
+TEAM,MAC,East,Buffalo,UB,72,CMU
+TEAM,MAC,East,Ohio,OHIO,70,MTSU
+TEAM,MAC,East,Akron,ZIPS,68,NIU
+TEAM,MAC,East,Bowling Green,BGSU,66,WKU
+TEAM,MAC,East,Toledo,TOL,82,WMU
+TEAM,MAC,West,Northern Illinois,NIU,88,ZIPS
+TEAM,MAC,West,Ball State,BALL,80,MiOH
+TEAM,MAC,West,Central Michigan,CMU,78,UB
+TEAM,MAC,West,Eastern Michigan,EMU,76,KSU
+TEAM,MAC,West,Western Michigan,WMU,74,TOL
+TEAM,MAC,West,Western Kentucky,WKU,78,BGSU
+TEAM,MAC,West,Middle Tennessee,MTSU,74,OHIO
+# PFL,,,,,,
+TEAM,PFL,East,Davidson,DVSN,60,MHSU
+TEAM,PFL,East,Marist,MRST,52,DAYT
+TEAM,PFL,East,Stetson,STET,46,BTLR
+TEAM,PFL,East,Presbyterian,PRES,42,VALPO
+TEAM,PFL,East,Georgetown,GTWN,52,DRAKE
+TEAM,PFL,East,Lafayette,LAFA,54,UST
+TEAM,PFL,East,Fordham,FDHM,58,USD
+TEAM,PFL,West,San Diego,USD,58,FDHM
+TEAM,PFL,West,St Thomas,UST,56,LAFA
+TEAM,PFL,West,Morehead State,MHSU,54,DVSN
+TEAM,PFL,West,Dayton,DAYT,50,MRST
+TEAM,PFL,West,Valparaiso,VALPO,48,PRES
+TEAM,PFL,West,Drake,DRAKE,44,GTWN
+TEAM,PFL,West,Butler,BTLR,40,STET
+# SBC,,,,,,
+TEAM,SBC,East,Appalachian State,APPS,84,USM
+TEAM,SBC,East,Coastal Carolina,CCU,86,ULM
+TEAM,SBC,East,Georgia State,GSU,82,ULL
+TEAM,SBC,East,Georgia Southern,GSOU,72,TXST
+TEAM,SBC,East,James Madison,JMU,60,TROY
+TEAM,SBC,East,Marshall,MRSH,82,ASU
+TEAM,SBC,East,Old Dominion,ODU,68,ODU
+TEAM,SBC,West,Arkansas State,ASU,70,MRSH
+TEAM,SBC,West,Louisiana,ULL,88,GSU
+TEAM,SBC,West,ULM,ULM,76,CCU
+TEAM,SBC,West,Southern Mississippi,USM,62,APPS
+TEAM,SBC,West,Texas State,TXST,74,GSOU
+TEAM,SBC,West,South Alabama,USA,78,ODU
+TEAM,SBC,West,Troy,TROY,80,JMU
