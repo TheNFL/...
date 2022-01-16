@@ -1,0 +1,98 @@
+D2 Bowl Subdivision,,,,,,
+LCPS,North,South,,,,
+SBC,East,West,,,,
+AAC,East,West,,,,
+CAA,East,West,,,,
+PFL,East,West,,,,
+MAC,American,National,,,,
+# Team format:,Conference,Division,Name,Abbr,Prestige,Rival
+# LCPS,,,,,,
+TEAM,LCPS,North,Tuscarora,TUSCA,16,BRR
+TEAM,LCPS,North,Stone Bridge,SBRI,15,BRIAR
+TEAM,LCPS,North,Riverside,RVSD,14,FREE
+TEAM,LCPS,North,Loudoun County,LOCO,13,LIGHT
+TEAM,LCPS,North,Park View,PKVW,12,ROCK
+TEAM,LCPS,North,Heritage,HERI,11,IND
+TEAM,LCPS,North,Woodgrove,WDGV,10,LOVA
+TEAM,LCPS,South,Broad Run,BRR,16,TUSCA
+TEAM,LCPS,South,Briar Woods,BRIAR,11,SBRI
+TEAM,LCPS,South,Rock Ridge,ROCK,15,PKVW
+TEAM,LCPS,South,Lightridge,LIGHT,14,LOCO
+TEAM,LCPS,South,Independence,IND,13,HERI
+TEAM,LCPS,South,Freedom,FREE,12,RVSD
+TEAM,LCPS,South,Loudoun Valley,LOVA,10,WDGV
+# SBC,,,,,,
+TEAM,SBC,East,Appalachian State,APPS,84,USM
+TEAM,SBC,East,Coastal Carolina,CCU,86,ULM
+TEAM,SBC,East,Georgia State,GSU,82,ULL
+TEAM,SBC,East,Georgia Southern,GSOU,72,TXST
+TEAM,SBC,East,James Madison,JMU,60,TROY
+TEAM,SBC,East,Marshall,MRSH,82,ASU
+TEAM,SBC,East,Old Dominion,ODU,68,USA
+TEAM,SBC,West,Arkansas State,ASU,70,MRSH
+TEAM,SBC,West,Louisiana,ULL,88,GSU
+TEAM,SBC,West,ULM,ULM,76,CCU
+TEAM,SBC,West,Southern Mississippi,USM,62,APPS
+TEAM,SBC,West,Texas State,TXST,74,GSOU
+TEAM,SBC,West,South Alabama,USA,78,ODU
+TEAM,SBC,West,Troy,TROY,80,JMU
+# AAC,,,,,,
+TEAM,AAC,East,East Carolina,ECU,86,UNT
+TEAM,AAC,East,Navy,NAVY,82,MEM
+TEAM,AAC,East,South Florida,USF,80,RICE
+TEAM,AAC,East,Temple,TEM,78,TLS
+TEAM,AAC,East,Florida Atlantic,FAU,84,TUL
+TEAM,AAC,East,Charlotte,CLT,76,SMU
+TEAM,AAC,East,Alabama-Birmingham,UAB,80,UTSA
+TEAM,AAC,West,Southern Methodist,SMU,88,CLT
+TEAM,AAC,West,Tulsa,TLS,84,TEM
+TEAM,AAC,West,Memphis,MEM,76,NAVY
+TEAM,AAC,West,Tulane,TUL,74,FAU
+TEAM,AAC,West,North Texas,UNT,66,ECU
+TEAM,AAC,West,Texas-San Antonio,UTSA,88,UAB
+TEAM,AAC,West,Rice,RICE,74,USF
+# CAA,,,,,,
+TEAM,CAA,East,Maine,MAINE,50,ABNY
+TEAM,CAA,East,Rhode Island,URI,48,TWSN
+TEAM,CAA,East,New Hampshire,UNH,46,VER
+TEAM,CAA,East,Stony Brook,SBU,44,RICH
+TEAM,CAA,East,Delaware,UD,42,ELON
+TEAM,CAA,East,Bryant,BRY,60,CWM
+TEAM,CAA,East,Holy Cross,HCU,60,SFPA
+TEAM,CAA,West,William & Mary,CWM,58,BRY
+TEAM,CAA,West,Vermont,VER,50,UNH
+TEAM,CAA,West,Elon,ELON,54,UD
+TEAM,CAA,West,Albany,ABNY,38,MAINE
+TEAM,CAA,West,St Francis (PA),SFPA,56,HCU
+TEAM,CAA,West,Richmond,RICH,40,SBU
+TEAM,CAA,West,Towson,TWSN,52,URI
+# PFL,,,,,,
+TEAM,PFL,East,Davidson,DVSN,60,MHSU
+TEAM,PFL,East,Marist,MRST,52,DAYT
+TEAM,PFL,East,Stetson,STET,46,BTLR
+TEAM,PFL,East,Presbyterian,PRES,42,VALPO
+TEAM,PFL,East,Georgetown,GTWN,52,DRAKE
+TEAM,PFL,East,Lafayette,LAFA,54,UST
+TEAM,PFL,East,Fordham,FDHM,58,USD
+TEAM,PFL,West,San Diego,USD,58,FDHM
+TEAM,PFL,West,St Thomas,UST,56,LAFA
+TEAM,PFL,West,Morehead State,MHSU,54,DVSN
+TEAM,PFL,West,Dayton,DAYT,50,MRST
+TEAM,PFL,West,Valparaiso,VALPO,48,PRES
+TEAM,PFL,West,Drake,DRAKE,44,GTWN
+TEAM,PFL,West,Butler,BTLR,40,STET
+# MAC,,,,,,
+TEAM,MAC,American,Tulsa State,TST,90,SLS
+TEAM,MAC,American,Ohio,OHIO,70,BALL
+TEAM,MAC,American,Metropolis,METRO,85,MSTAM
+TEAM,MAC,American,Tulsa,TULSA,65,NIU
+TEAM,MAC,American,Bowling Green,BGSU,60,WMU
+TEAM,MAC,American,Rocky Mountain State,RMSU,80,MTU
+TEAM,MAC,American,Villanova,NOVA,56,DIXIE
+TEAM,MAC,National,Ball State,BALL,70,OHIO
+TEAM,MAC,National,Missouri Tech,MTU,90,RMSU
+TEAM,MAC,National,Northern Illinois,NIU,65,TULSA
+TEAM,MAC,National,Western Michigan,WMU,60,BGSU
+TEAM,MAC,National,Missouri State Tech A&M,MSTAM,80,METRO
+TEAM,MAC,National,St Louis State,SLS,20,TST
+TEAM,MAC,National,Dixie State,DIXIE,40,NOVA
